@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install python3.11 && apt install wget
+apt install python3.11 && apt install wget && pip3 install beautifulsoup4
