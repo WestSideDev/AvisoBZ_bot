@@ -1,7 +1,7 @@
 # [AvisoBZ](https://aviso.bz)
 ### REQUIRES
 + **Python 3.11**
-+ **run install** 
++ **run `install`** 
 #
 ### PLATFORMS
 + **Android**
