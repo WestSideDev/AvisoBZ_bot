@@ -1,0 +1,2 @@
+#!/bin/bash
+apt install python3.11 && apt install wget
