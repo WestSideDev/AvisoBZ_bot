@@ -9,5 +9,5 @@
 #
 ### SCREESHOTS
 <f>
-  <img src="/photo_2023-09-07_18-38-39.jpg"
+  <img src="/photo.jpg"
 </f>
